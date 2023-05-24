@@ -1,0 +1,19 @@
+{
+    "name": "myber/midtrans-custom",
+    "description": "Custom midtrans",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashab",
+            "email": "firdaus.ashab@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Myber\\MidtransCustom\\": "src/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,19 @@
+{
+    "name": "myber/whatsapp",
+    "description": "api whatsapp",
+    "type": "projetc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashab",
+            "email": "firdaus.ashab@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Myber\\Whatsapp\\": "src/"
+        }
+    },
+    "require": {}
+}

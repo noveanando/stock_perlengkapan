@@ -1,0 +1,19 @@
+{
+    "name": "myber/firebase-custom",
+    "description": "Custom Firebase",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashab",
+            "email": "firdaus.ashab@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Myber\\FirebaseCustom\\": "src/"
+        }
+    },
+    "require": {}
+}
